@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vkj:home|Door43 (vkj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vkj|d43-vkj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vkj/archive/master.zip|d43-vkj.zip]]
+
+**Recent Changes**
+{{changes>ns = vkj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vkj|Ethnologue data]]
+
